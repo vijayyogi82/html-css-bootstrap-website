@@ -9,3 +9,27 @@
 #map-content {
     background-color: #00092A;
 }
+
+#todayCrypto {
+    border: 1px solid;
+    border-radius: 2%;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-color: rgb(244, 244, 4);
+}
+
+#rightMarkText {
+    margin-left: 15px;
+}
+
+#btcEthLtc {
+    border: 5px solid;
+    border-color: rgb(6, 6, 103);
+    padding: 20px;
+    border-radius: 5%;
+    margin-bottom: 5%;
+}
+
+#btcEthLtcIcon {
+    background-color: aliceblue;
+    border-radius: 100%;
+}
